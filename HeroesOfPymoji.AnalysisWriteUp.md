@@ -1,6 +1,4 @@
-# You must include a written description of three observable trends based on the data.
-
-# Key Observations
+# Key Observations of Heroes of Pymoji
 - Key demographic of active players are males (84%), aged between 15 and 29 (77%)
 - Males account for 83% of the total purchase value
 - Players aged between 20 and 24 account for 46% of total purchase value
